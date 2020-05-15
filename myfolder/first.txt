@@ -1,1 +1,4 @@
-hello first
+	public BasePage() throws IOException {
+		this.wait = new WebDriverWait(driver, 15);
+		jsExecutor = ((JavascriptExecutor) driver);
+	}
