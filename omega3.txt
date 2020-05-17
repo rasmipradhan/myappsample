@@ -1,2 +1,6 @@
 this is added from online made by others
 this added online again
+
+##############
+this is added from local after pull
+watching movie Avatar
