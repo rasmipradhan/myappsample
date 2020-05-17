@@ -1,5 +1,12 @@
 this is added separately from local
 
+<<<<<<< HEAD
 $$$$$$$$$$$$$$$$$$$$$$
 added from local 
 added from local itahari
+=======
+
+++++++++++++++++++++++++
+added from online
+added from online
+>>>>>>> 95f46dfc3f4a1e651fd1479e4c834b1f2a50b170
